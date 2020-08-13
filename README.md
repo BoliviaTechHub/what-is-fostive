@@ -22,7 +22,7 @@ But the virtual event experience so far for many of us has been unsatisfying. At
 
 The [fostive GitHub organization](https://www.github.com/fostive) contains several open source repos which are tools  you can freely use to improve your virtual event. For example, there is
 
-* A **real-time talk feedback widget** allowing attendees to clap, love, raise a hand, agree, and question what's currently being presented.
+* A [**real-time presentation feedback widget**](https://github.com/fostive/emote-server) allowing attendees to clap, love, raise a hand, agree, and question what's currently being presented.
 * An **audience quiz app** allowing a speaker to incorporate a quiz or other questions into their talk that the audience can respond to in real-time.
 * A **virtual video booth GIF creator** allowing attendees to create short animated GIFs they can share in different ways: as an introduction for themselves in the event Slack, to share on a social network, or just to keep as a momento reminding them of the great event.
 
