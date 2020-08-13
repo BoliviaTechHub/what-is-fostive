@@ -1,8 +1,8 @@
-# What is FOSTIVE
-
 <p align="center">
 <img src="images/logotype-horizontal.png" name="FOSTIVE header image" height="300px"/>
 </p>
+
+# What is FOSTIVE
 
 FOSTIVE stands for Free and Open Source Tools for Incredible Virtual Events, and it is just that! For many of us, virtual developer events have left us unfulfilled compared to in-person events. Let's use our collective skills to make virtual events (from small meetups to large conferences) more fun, engaging, and fulfilling for organizers, presenters, and attendees.
 
