@@ -36,6 +36,7 @@ Help make FOSTIVE better! Many hands make light work.
 * Add requested features to existing repoos
 * Create a new tool in a new repo based on one of the ideas in the unimplemented ideas list
 * Write / improve docs
+* [Suggest new app ideas](https://github.com/fostive/unimplemented-ideas)
 
 ## Questions?
 
