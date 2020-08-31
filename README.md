@@ -33,7 +33,7 @@ The [fostive GitHub organization](https://www.github.com/fostive) contains sever
 Help make FOSTIVE better! Many hands make light work.
 
 * Fix bugs
-* Add requested features to existing repoos
+* Add requested features to existing repos
 * Create a new tool in a new repo based on one of the ideas in the unimplemented ideas list
 * Write / improve docs
 * [Suggest new app ideas](https://github.com/fostive/unimplemented-ideas)
