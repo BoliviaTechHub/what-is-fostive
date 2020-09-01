@@ -1,9 +1,8 @@
-<figure>
 <p align="center">
 <img src="images/logotype-horizontal.png" name="FOSTIVE header image" height="300px"/>
 </p>
-<figcaption style="font-style: italic;">an open source project started by the Salesforce+Heroku Developer Relations Team 💜💙</figcaption>
-</figure>
+
+*an open source project started by the Salesforce+Heroku Developer Relations Team 💜💙*
 
 # What is FOSTIVE
 
